@@ -6,4 +6,7 @@
 # Languages and Tools
 * Java
 # Result of project
-* []()
+* [display1.png](https://github.com/tnppp1122/PANDODA_project/blob/main/pic/display1.png) <hr>
+* [display2.png](https://github.com/tnppp1122/PANDODA_project/blob/main/pic/display2.png) <hr>
+* [display3.png](https://github.com/tnppp1122/PANDODA_project/blob/main/pic/display3.png) <hr>
+* [display4.png](https://github.com/tnppp1122/PANDODA_project/blob/main/pic/display4.png) 
